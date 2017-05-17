@@ -1,0 +1,2 @@
+# NewEditionCheck
+Version update tip
